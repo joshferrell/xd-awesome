@@ -39,10 +39,11 @@
 
 ## Templates
 - [**xd-plugin-boilerplate**](https://github.com/pklaschka/xd-plugin-boilerplate) – A template including bundling via Webpack, linting with ESLint as well as the typescript definitions preconfigured for JavaScript autocompletion
+- [**typescript-react**](https://github.com/joshferrell/adobexd-react-typescript/tree/master) by [Josh Ferrell](https://github.com/joshferrell) - A template for bundling via Webpack with Babel7 and ES6 functionality for react and typescript.
 - [**generator-xd-plugin**](https://github.com/AdobeXD/generator-xd-plugin) – Yeoman generator for creating Adobe XD Plugin projects
 
 ## Samples
-
+- [**typescript-react (auth & route)**](https://github.com/joshferrell/adobexd-react-typescript/tree/feature/routing-methods) by [Josh Ferrell](https://github.com/joshferrell) - Includes examples for how to store JWT and how to route between states in the react app using xstate.
 ## Tutorials
 
 ## Framework Support
